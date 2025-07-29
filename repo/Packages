@@ -1,0 +1,427 @@
+Package: Flex3beta
+Version: 1:3~Beta86
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/Flex3_3_Beta86.deb
+Size: 14920824
+MD5sum: fce34ff53b10f6733df7f449902cb227
+SHA1: 4d9f3723c104e256500b03e0ba7af8b38e4f1a4f
+SHA256: 2a2367571f9abbd270fd2f6d79b23244dc1bc885272ed26f1b07f4bb8dbd3b88
+Section: Tweaks
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: Flex3beta
+Version: 1:3~Beta98
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/Flex3_3_Beta98.deb
+Size: 14346600
+MD5sum: 693c569e78f37e6d0e9c2e63287bc97e
+SHA1: c6b44a4c7ef73f7b68240775ee58f7591c14d2e4
+SHA256: 2b71e64db3e4b352ef73d54e76e0808bb122c614d97160bf5338b903d2d8f6a4
+Section: Tweaks
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: com.michael.appleturboboost
+Version: 0.7.0
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.michael.appleilluminator
+Filename: ./debs/com.michael.appleturboboost_0.7.0_iphoneos-arm.deb
+Size: 9876
+MD5sum: 3b3fb229c9efe153cdf6288963efc66a
+SHA1: d6ee79806088ed1ff10aa50e876662e09e1ecaf4
+SHA256: c593c79ecbd596793230cbb9de3dd448118d37a1f029f1904d455ffe28ee9992
+Section: System
+Description: Turbo Boost Your Apple!
+ Turbo Boost Your Apple!
+ Support iOS12~14.
+Author: Halo_Michael <yc992147156@me.com>
+Name: Apple Turbo Boost
+
+Package: com.michael.localssh
+Version: 0.4.1
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: firmware (>= 12.0), openssh(>= 8.0)
+Conflicts: com.midnightchips.localhostssh
+Replaces: com.midnightchips.localhostssh
+Provides: com.midnightchips.localhostssh
+Filename: ./debs/com.michael.localssh_0.4.1_iphoneos-arm.deb
+Size: 7360
+MD5sum: b28df1f2b17daab8e177d67ed0884c0a
+SHA1: 77b67195b8382246d5f81861cc9c7be0b97ecaae
+SHA256: e50fc5d24e47f1ace1c8a8f5d82b3ee1ead9554c0353ac4958ecb5d1e74cf2b8
+Section: Tweaks
+Description: Enable port 2222 on localhost for OpenSSH.
+ Support Checkra1n, Chimera , Odyssey and Unc0ver.
+Author: halo_michael <yc992147156@me.com>
+Name: LocalSSH
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.nablac0d3.sslkillswitch2
+Version: 0.14-1+debug
+Architecture: iphoneos-arm
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Installed-Size: 108
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.nablac0d3.sslkillswitch2_0.14-1+debug_iphoneos-arm.deb
+Size: 7378
+MD5sum: dee4c65c9b19b9851477ba67767e5a7e
+SHA1: 71d5f65ed0444452394c8cebaa98ce958fe2732f
+SHA256: 37e71928c6b2f6dbaa47b850d162d21d85ba76375de9b7dbddd76252f21b3210
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 2
+
+Package: com.pxcex.localiapstore13
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: pxcex
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.pxcex.localiapstore13_0.0.2_iphoneos-arm.deb
+Size: 2684
+MD5sum: ecfd8c78d1a9f6c841715d7257cde6b3
+SHA1: 755abab6e45b47294f5181b790e36b8a37a87bbf
+SHA256: 5e0cfa0ae83c1517fbcccf0a150a6d794ffdc2696e9e6e6d4659cd96185aa9f3
+Section: Tweaks
+Description: Free In-App Purchases include app IOS 13 bypass Lock iCloud (bypass verify Passcode, Touch ID or Face ID).  No options to configure!
+Author: pxcex
+Name: LocalIAPStore13
+
+Package: com.tigisoftware.appdatamanager
+Version: 1.6.1-10
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 9112
+Filename: ./debs/com.tigisoftware.appdatamanager_1.6.1-10_iphoneos-arm.deb
+Size: 3677508
+MD5sum: 64ae3998d4c3e283506a5228bd8789a1
+SHA1: f5d4a2478c6611e0772ff4d9c6add68620c941d2
+SHA256: 7d8d484d669ba4e3c6e71b1a1f10cde4f9a9eed48d1103ec0acbda96f0016362
+Section: Utilities
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Author: TIGI Software
+Name: Apps Manager
+
+Package: com.tigisoftware.filza
+Version: 3.9.7-2
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 34244
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/com.tigisoftware.filza_3.9.7-2_iphoneos-arm.deb
+Size: 13679126
+MD5sum: e8795b87183bdff75a527755243d1eee
+SHA1: 6a4d0b044530b570582e37bbb053febc31a6987a
+SHA256: 3ddb509bee710a1c2106f61013446e19b6ab8ee1e7d097dcc0a6acbad155a643
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: TIGI Software
+Name: Filza File Manager
+
+Package: com.vsz.redeb
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: T.Herak <50dc856b@opayq.com>
+Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
+Filename: ./debs/com.vsz.redeb_1.0.3_iphoneos-arm.deb
+Size: 3572
+MD5sum: b5aa8718f90044be937b72d9f4e7a1f5
+SHA1: 912a6cf3cea1c725df51bb54ad4f849f27bdfa08
+SHA256: 5ec1491fdf630cdb2cbf218a10557d45e5a23271e775b066553cea543cf31c80
+Section: Utilities
+Priority: extra
+Description: Repackage any of your tweaks locally, without the need to download it from Cydia again. This is super usefull when there is an update of your until now perfectly working tweak in Cydia and you want to make a backup of the version installed. Normally you wouldn't be able to backup anything because it is possible to fetch only the most current version of your tweak and so you would be lost. Not anymore :)))
+Author: T.Herak <50dc856b@opayq.com>
+Depiction: https://wiety.github.io/cydia/depictions/?p=com.vsz.redeb
+Name: redeb
+
+Package: kr.xsf1re.flyjbx
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 1580
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
+Filename: ./debs/kr.xsf1re.flyjbx_1.2.5_iphoneos-arm.deb
+Size: 766032
+MD5sum: 3ab29ed23676b458046ff0fb67cff34c
+SHA1: 33a4928e1555362901535e940745c18b43258d80
+SHA256: 91239f1f9579e45dcb117f6848ad6cbaa3360b00149cdceab6ce5cb3ec6cf534
+Section: Tweaks
+Description: You can HIDE Doing jailbreak your iDevice.
+Author: XsF1re
+Name: FlyJB X
+
+Package: moe.misty.surge4-advanced
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: misty
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/moe.misty.surge4-advanced_0.0.2_iphoneos-arm.deb
+Size: 11048
+MD5sum: 3c7f5495ca1c6c3501f2e097332894b8
+SHA1: 9b72d85376c8abfa07805a8d86411b087c58a6eb
+SHA256: bc1204ce8227e33ae3bfee522014fafbade5543650dd7406f5120284005c7e39
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: misty
+Name: Surge4Advanced
+
+Package: net.angelxwind.appsyncunified
+Version: 104.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 732
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/nodelete-net.angelxwind.appsyncunified.deb
+Size: 59144
+MD5sum: 4d4f867de80c03237897a0396d1bd90b
+SHA1: ec75e0cf681f50c11ced972d9990912f6d57af99
+SHA256: 720ab7caf651b5922c41ce2960d0a94a6e5c9c3be3c76676c33524a5d5eab0d3
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: netskao.alipayhooks
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.alipayhooks_1.1-2_iphoneos-arm.deb
+Size: 70516
+MD5sum: 2fc68eccccf388d657a2c76686a1925e
+SHA1: 5004f702eb0967cfa05c7757dd3b01254b5566c1
+SHA256: acdba054da9a231ac3c3ef4ffc16017beb4f8d527269e4484ab16e9aa0838c89
+Section: Netskao-Tweaks
+Description: 支付宝去除底部理财和口碑或生活选项，去除底部红点显示等，理财是不可能理财的，只有收收钱勉强维持生活
+Author: Netskao
+Name: 支付宝 Hooks
+
+Package: netskao.awemepurification
+Version: 2.3-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 556
+Depends: mobilesubstrate, firmware (>= 9.0)
+Replaces: netskao.awemepurification
+Filename: ./debs/netskao.awemepurification_2.3-4_iphoneos-arm.deb
+Size: 203850
+MD5sum: af1b391d71dfaab22fa4edcc570be3f5
+SHA1: af1eb73bfd77987d114e6c08356036e8df5e2830
+SHA256: 44c30bc5ebf865a3ea85c6c5fae94367d570ad8fc5f85aa52e7eff3bb1df9e29
+Section: Tweaks
+Description: 抖音净化！设置位于抖音-设置，去除启动广告，去除视频流广告，去除视频流中的直播，去除流量提示，去除青少年提示，去除左下角播放时弹出的商品购买，去除左上角悬浮的推广等，可启用原始按钮或双击视频保存无水印视频活图片，支持保存所有视频或图片，可启用浅色模式或关闭，可启用全局纯净模式，可启用关注二次确定，可启用显示所有视频进度条，可启用双击快捷复制文案，可启用首页或非首页自动播放下一条，可启用iWall插件快速设置背景，可禁用头像挂件显示，可禁用弹出红包，可禁用全局状态栏，可禁用首页本地页面，可禁用摇一摇找朋友，可禁用分享面板朋友，可禁用分享面板应用，可禁用分享面板一起看视频，可禁用视频来源显示，可禁用首页按钮刷新列表，可禁用评论中的置顶评论，可禁用评论中的链接广告，可禁用底部朋友按钮，可禁用底部发抖音按钮，可禁用底部消息按钮，可禁用首页左上角直播按钮，可禁用首页右上角搜索按钮，仅支持15.7.0版本及以上(最后完美兼容版本16.2.0)，此插件已停止维护！！！
+Author: Netskao
+Name: 抖音净化
+
+Package: netskao.dumpdecrypter
+Version: 1.3-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 2428
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/netskao.dumpdecrypter_1.3-7_iphoneos-arm.deb
+Size: 729450
+MD5sum: fbe1ffeb424d8d13ea5c4585a1e16c75
+SHA1: c5dfb07112dd33227556cacd3f9b99a9cab24b3d
+SHA256: dfcac6fb09c802b723ae8a93c14623a464f8ecd7c236408fcdcd24f37e14ed0b
+Section: Netskao-Tweaks
+Description: Decrypt iOS Apps
+Author: Netskao
+Name: DumpDecrypter
+
+Package: netskao.filzacrack
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 200
+Depends: mobilesubstrate, com.tigisoftware.filza64bit | com.tigisoftware.filza
+Filename: ./debs/netskao.filzacrack_1.1-4_iphoneos-arm.deb
+Size: 16662
+MD5sum: 761b9829645b7681709026dad8c122ac
+SHA1: f6c7c32241e6d1ee55c9f06b09540307bd51daac
+SHA256: aa7d220be725d3176dc1396da35c450074eb6801d7e2799140ce12f23a568b85
+Section: Tweaks
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza破解全功能插件，主程序官方源安装，支持所有机型，如提示需要激活请激活即可，国行激活失败请自行修复联网，点击“更多信息”跳转官方源https://tigisoftware.com/cydia/
+Author: Netskao
+Name: Filza Crack
+
+Package: netskao.jdnoads
+Version: 1.1-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.jdnoads_1.1-6_iphoneos-arm.deb
+Size: 82294
+MD5sum: aca615f6acaee276b4144628cd9c5fef
+SHA1: 1dccacd08a00a49b26d42a7b8c051eee518311fb
+SHA256: a09a05b9e093e586a48fec07df55a05e9a10258a9a7f22db8ec1ee4884fbadf9
+Section: Tweaks
+Description: 京东去除启动广告，去除搜索列表中广告商品，去除首页信息流中滚动横幅，去除首页信息流中618精选会场，去除首页下拉活动，去除首页右下角悬浮窗，去除分类页面顶部横幅，去除发现页面顶部横幅，去除购物车推荐商品，去除我的页面随机出现的悬浮窗，去除我的页面精选推荐(其他模块自带可关闭)，去除随机弹出的推广窗口，增加长按保存商品视频和评论视频
+Author: Netskao
+Name: 京东 NoAds
+
+Package: netskao.qqpurification
+Version: 2.0-1.3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 880
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/netskao.qqpurification_2.0-1.3_iphoneos-arm.deb
+Size: 335902
+MD5sum: 6a93660904c7d92622a4354754e7b8e2
+SHA1: 496fe6dddf0d290291b2842ab32aa690e2ab21ec
+SHA256: 05e0d5312cc66c6fbc3bdeeebffd5b7cef49b9112aa996876342ae7188cc6f6e
+Section: Tweaks
+Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置页面顶部，仅支持8.8.0及以上版本
+Author: Netskao
+Name: QQ净化
+
+Package: netskao.qqyynoads
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/netskao.qqyynoads_1.2-1_iphoneos-arm.deb
+Size: 112366
+MD5sum: 74ad766d00252949a5ca0f82c64b0153
+SHA1: 8e551bf61efd5e31812248924a95e4effd02c9be
+SHA256: f06ca18de6942fd2d20e4e3a160f361350821e94ee2c8506fb6012a4d2b9006d
+Section: Tweaks
+Description: QQ音乐去除启动广告，去除其他广告，去除推荐列表中直播和音乐馆列表中直播，去除首页顶部直播按钮，去除底部电台和扑通按钮等
+Author: Netskao
+Name: QQ音乐 NoAds
+
+Package: netskao.wyyyynoads
+Version: 1.2-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 2116
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/netskao.wyyyynoads_1.2-6_iphoneos-arm.deb
+Size: 634572
+MD5sum: 9d4d2c878c0e7f55d22cf02f151c4930
+SHA1: a851b434c71e982189724777097a8fdfe6f28290
+SHA256: e48ed7eefe6c25b55ced4d301e88b913d24c5f2f85439d297a3b06a380594db8
+Section: Netskao-NoAds
+Description: 网易云音乐去除启动广告，去除评论区相关信息和广告，去除首页顶部横幅中插入的广告，去除搜索页面顶部广告，去除播放页面顶部右上角在唱，去除左侧设置无关紧要选项，绕过越狱检测可收藏可评论，解除非中国地区播放限制，增加使用原始分享按钮保存任意视频到相册，增加缓存歌曲导出(下载或本地页面，歌曲操作面板导出，支持自动解密ncm格式)
+Author: Netskao
+Name: 网易云音乐 NoAds
+
+Package: org.thebigboss.dismissprogress
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 152
+Depends: firmware (>= 6.0)
+Filename: ./debs/org.thebigboss.dismissprogress_1.1.1_iphoneos-arm.deb
+Size: 5238
+MD5sum: e3a54711baec689ad8a831177179ea34
+SHA1: 9258aabc239dfee37cfbb9db3db33844b096340e
+SHA256: 69362db9aee63b06d5e71931b336645885777bb1b1fe79cdf0d7998325c55d79
+Section: Tweaks
+Description: Dismiss installation window without closing cydia.
+Author: PoomSmart
+Name: DismissProgress
+
+Package: run.er.wormctrl
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: yu
+Installed-Size: 1172
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/run.er.wormctrl_1.1.0_iphoneos-arm.deb
+Size: 181958
+MD5sum: 0dc0d6a7b8f4360032b9f5c58b7cbd2c
+SHA1: 126a16ac92818ed6388ff82c8198116d91673217
+SHA256: 0008457bddd17f88d2ae7781fb9609e103bb5adba1bd2526d4bcf31098e5c71d
+Section: System
+Description: This is the plugin of blackhole.
+Tag: role::hacker
+Author: yu
+Name: Blackhole Plugin
+
+Package: sileot.locationfakerx
+Version: 2.8-2k
+Architecture: iphoneos-arm
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
+Conflicts: org.thebigboss.locationfaker8, org.thebigboss.locationchangerx, com.cunstuck.locationfakerx
+Filename: ./debs/locationfakerx_2.8-2k.deb
+Size: 1574580
+MD5sum: bbf189f20611a8ead820ec08d6e6896c
+SHA1: 00a896c07725116441a02b2add66b85a864ffab8
+SHA256: ff4413e5d51aeda2eb2a568dcdea0f92c034e4eca3676bc31c2c1704f20a0064
+Section: Tweaks
+Description: change your Location in any App
+Author: CUNSTUCK
+Name: LocationFakerX
+
+Package: tf.festival.rescale2
+Version: 1.0.5-1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 1368
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Filename: ./debs/tf.festival.rescale2_1.0.5-1_iphoneos-arm.deb
+Size: 175842
+MD5sum: 4bf9cd78a9d38177a5df2680e7650802
+SHA1: b55690581f454be0e1cb6b5a71f75561e7d2be9c
+SHA256: 71f7ba65f558176f53af7d169d7d3292a7a7458e4f9df8bfa7461ec2cf8c49de
+Section: Tweaks
+Description: A modern (and safe) Upscale alternative!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: Re:Scale 2
+
+Package: xyz.eshaydev.ignition
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: EshayDev <eshay.dev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate
+Filename: ./debs/xyz.eshaydev.ignition.deb
+Size: 9070
+MD5sum: e5f1b06c32fad5c4cf38174cb8ff22df
+SHA1: 8ef6fe7f2344a3d973035b6372db767b2e9b69d5
+SHA256: 27457761b52f54794f7ebd5bf791a6c93f3062e29321d5515958c4f783f4bc96
+Section: Tweaks
+Homepage: https://eshaydev.github.io
+Description: Unlock the full potential of Infuse
+Tag: role::enduser
+Author: EshayDev & CobreDev <eshay.dev@gmail.com>
+Depiction: https://eshaydev.github.io/depiction/web/xyz.eshaydev.ignition.html
+Icon: https://eshaydev.github.io/assets/xyz.eshaydev.ignition/icon.png
+Moderndepiction: https://eshaydev.github.io/depiction/native/xyz.eshaydev.ignition.json
+Name: Ignition
+Sileodepiction: https://eshaydev.github.io/depiction/native/xyz.eshaydev.ignition.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios11.0, compatible_max::ios16.0
+
