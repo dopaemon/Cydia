@@ -593,6 +593,147 @@ Description: A modern (and safe) Upscale alternative!
 Author: Sniper_GER <sniperger@festival.ml>
 Name: Re:Scale 2
 
+Package: vn.gsm.appsync30
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Pre-Depends: firmware (= 3.0) | firmware (= 3.0.1) | firmware (= 3.0.2) | firmware (= 3.0.3) | firmware (= 3.0.4)
+Depends: gsmicon
+Filename: ./debs/appsync30.deb
+Size: 284828
+MD5sum: 6d566faf7afa8959b114e9444a3f7916
+SHA1: 822de108f99b624440bc2352f68efc004edaeb4d
+SHA256: 5054e3c672fee07e5b5aba2ce5004b97b1b790fc407446c10817159efd84e5e1
+Section: !GSMVN-Tools
+Homepage: http://iphone.gsm.vn/moreinfo/info.html
+Description: Giúp cài đặt các Apps đã Crack trên OS3.0
+Author: Reilly <appsync@hackulo.us>
+Name: AppSync for OS 3.0
+
+Package: vn.gsm.appsync31
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Pre-Depends: firmware (= 3.1) | firmware (= 3.1.1) | firmware (= 3.1.2) | firmware (= 3.1.3)
+Depends: gsmicon
+Conflicts: us.hackulo.appsync31
+Replaces: us.hackulo.appsync31
+Filename: ./debs/appsync31-1.0.1.deb
+Size: 296624
+MD5sum: fdae20ebe41ce13f9dc6ae42594eacea
+SHA1: 9f0870e172ee5f2b5882935d04b1cdee2b85605c
+SHA256: b12cb66c4f981b314887ae2d730c8766393a737f187d7a4fc3d4b0552c45466c
+Section: !GSMVN-Tools
+Priority: standard
+Description: Giúp cài đặt các Apps đã Crack trên iPhone OS3.1.x
+Author: Reilly <appsync@hackulo.us>
+Depiction: http://iphone.gsm.vn/moreinfo/appsync3.1.x.php
+Name: AppSync for OS 3.1
+
+Package: vn.gsm.appsync32
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Pre-Depends: firmware (= 3.2) | firmware (= 3.2.1) | firmware (= 3.2.2)
+Depends: gsmicon
+Conflicts: us.hackulo.appsync32
+Replaces: us.hackulo.appsync32
+Filename: ./debs/appsync32-2-1.deb
+Size: 274694
+MD5sum: 6158b106e71f23fefcc398085ba864c9
+SHA1: 5d512c83c24ceb7f691b7fdb21816ba8d6d51f3b
+SHA256: d21f168094a0bf9483cc756f7d7f2452f19b660148cc22d6a1c6932b81f09473
+Section: !GSMVN-Tools
+Priority: standard
+Description: Giúp cài đặt các Apps đã Crack trên iPad OS3.2.x
+Author: Dissident <apps@hackulo.us>
+Depiction: http://iphone.gsm.vn/moreinfo/appsync32.php
+Name: AppSync for OS 3.2
+
+Package: vn.gsm.appsync40plus
+Version: 1.1-6
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Pre-Depends: firmware (>= 4.0), firmware(<< 4.4)
+Provides: appsync, vn.gsm.appsync40, vn.gsm.appsync41, vn.gsm.appsync42
+Filename: ./debs/appsync40plus_1.1-6-1.deb
+Size: 9218
+MD5sum: b12d9dc94183cce64c7d117fe58319aa
+SHA1: 41432f15d046a6cc44f3deae062b945eb850c6ca
+SHA256: c34d7e815b851eac35363ea3a9112302333bf92b4c4a246606cad1bf32518c09
+Section: !GSMVN-Tools
+Priority: standard
+Homepage: http://cydia.vn/
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t903/
+Name: AppSync for iOS 4.0+
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.appsync50plus
+Version: 2.2b
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: gsmicon, firmware (>= 5.0), mobilesubstrate
+Conflicts: us.hackulo.appsync50, vn.gsm.appsync50
+Replaces: us.hackulo.appsync50, vn.gsm.appsync50
+Provides: appsync, us.hackulo.appsync50plus
+Filename: ./debs/appsync50plus_2.2-1b.deb
+Size: 4618
+MD5sum: ad8176e8837387a9fb8389dc52ce80de
+SHA1: a18683ead32ea0fd9b89949f96c78d3d6e9cf443
+SHA256: 4acea4f09a46eaabaa7623ab305d2e803f400e377be33e893bc942d789091238
+Section: !CydiaVn-Tools
+Priority: standard
+Homepage: http://cydia.vn/
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t2086/
+Name: AppSync for iOS 5.0+
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.appsync70plus
+Version: 5.6-4b
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 336
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
+Replaces: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
+Provides: appsync
+Filename: ./debs/appsyncunified_5.6-4b.deb
+Size: 149682
+MD5sum: 7d88cdf52662461b4836028c6c7b1c4f
+SHA1: 96f7b5a80a75b5154b11d27847faad9f63244bdb
+SHA256: a88e3f87aa973cce9d591259c46c905ea8ea4947e6322870ae89131951936e98
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/
+Description: Works on iOS 5, 6, 7, 8 & 9. AppSync Unified allows you to sync and install unsigned iOS applications.
+Author: Linus Yang, Karen Tsai
+Depiction: http://cydia.vn/depic/t4522/
+Name: AppSync for iOS 5, 6, 7, 8, 9
+
+Package: vn.gsm.appsync70plus
+Version: 5.6-5b
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 336
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
+Replaces: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
+Provides: appsync
+Filename: ./debs/appsyncunified_5.6-5b.deb
+Size: 162656
+MD5sum: 6c7cf576f6d8b910a3c8cbeb14b21e67
+SHA1: 895cafb76ed3da786458847fc775e32ee31709fb
+SHA256: dab5ec2b29cc8767e0354357ff58e5c536650f7774ab0c1feda2ecd78d430b48
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/
+Description: Works on iOS 5, 6, 7, 8 & 9. AppSync Unified allows you to sync and install unsigned iOS applications.
+Author: Linus Yang, Karen Tsai
+Depiction: http://cydia.vn/depic/t4522/
+Name: AppSync for iOS 5, 6, 7, 8, 9
+
 Package: xyz.eshaydev.ignition
 Version: 1.0.0
 Architecture: iphoneos-arm
