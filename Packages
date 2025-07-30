@@ -69,6 +69,21 @@ Author: iPhoneIslam <info@iphoneislam.com>
 Depiction: http://www.iphoneislam.com/ArabtallerPlus/Cydia/iPad
 Name: Arabtaller iPad
 
+Package: com.0xilis.letmepass
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Snoolie K
+Installed-Size: 200
+Filename: ./debs/com.0xilis.letmepass_1.5_iphoneos-arm.deb
+Size: 3694
+MD5sum: d5dbd6ce6999cef8e456b9888f7f7db0
+SHA1: 97ecbffd7ec5f57339cd6452ff35b54e52afcc1a
+SHA256: 9535ff9de6630220e214c769d744142778793752626cb5790640d12f8b01e6c2
+Section: Tweaks
+Description: Bypasses YouTube's version alert
+Author: Snoolie K
+Name: LetMePass
+
 Package: com.iphoneislam.HijriWidget
 Version: 1.1-1
 Architecture: iphoneos-arm
