@@ -1426,11 +1426,11 @@ Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Chaoji Li<lichaoji@gmail.com>
 Filename: ./debs/dospad.deb
-Size: 3546204
-MD5sum: 131753909186aa92a4ae5a897ae2d942
-SHA1: 7b76d1eb19f7a66d70e09821407bdfb834621949
-SHA256: 908206089b0b8c0122d00a604d96b21a38d24dd0576fbb7c7e03dc20bd0d4fed
-Section: Games
+Size: 3115388
+MD5sum: 8f7a7e6845e29c6b54195d40284c9fe6
+SHA1: e650b7fb778d9a21bb81eb9a0fe28fd2e2065282
+SHA256: 3103cb94c83fb9be57c6cdbb682f755a13c6f3fc849e12dd9b8e88561a4bb496
+Section: System
 Homepage: http://www.litchie.com/blog/?page_id=123
 Description: DOSPAD is a first dos emulator for iPhone/iPad, based on dosbox 0.74.
 Author: Chaoji Li<lichaoji@gmail.com>
@@ -1445,10 +1445,11 @@ Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 2404
 Depends: firmware (>= 7.0)
 Filename: ./debs/minivmac4ios-2.1.deb
-Size: 774036
-MD5sum: df9927286f715b38ac62f8f529823483
-SHA1: 85e8d734fa43070b94d503d5748a883eab9f12c4
-SHA256: 08ba698fc242a8bc089822fafda1d9646df35e9d3dc58a76b07fe98728717312
+Size: 458556
+MD5sum: aee06b22136b6c587f81f5da899daf68
+SHA1: 4c06f01782734d4ad3cbccefd9fa621b891ef1f4
+SHA256: f236b4bb6828778f6cd133633c8710a7cf23b1fede498fb571cb7e2f737a69a3
+Section: System
 Homepage: https://namedfork.net/minivmac
 Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
@@ -1461,10 +1462,11 @@ Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 2540
 Depends: firmware (>= 7.0)
 Filename: ./debs/minivmac4ios-2.1.1.deb
-Size: 812810
-MD5sum: dd862fce32506ae0106c45c671ad8bdc
-SHA1: b0963cd0a9c5aa132241750d496acc73848f8744
-SHA256: caa231e1381c90fe16006c7fa1a1e4f63e5033d12034dd553cb173ee3f94fad5
+Size: 478844
+MD5sum: 8faa95837514cb203e5fc98532ff7a01
+SHA1: c0dd8a72053991b251b56faef63ef35b6b583088
+SHA256: b394ac5b941a8f510f11fb969a1a01205ca651162005e7ae2b4d04e2424dffa7
+Section: System
 Homepage: https://namedfork.net/minivmac
 Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
@@ -1477,10 +1479,11 @@ Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3112
 Depends: firmware (>= 7.0)
 Filename: ./debs/minivmac4ios-2.2.deb
-Size: 1026824
-MD5sum: 4dbdbceb70775cfc940f621e20c26f99
-SHA1: df1718175a341485989cc947f9e46eb67a048b13
-SHA256: 857a67c558cf017474f60cc34364c2a38b99ebca7e09eb44c2b50cb1901dccdb
+Size: 508096
+MD5sum: b175dad38b06cf60a1c01ab6acf73c1e
+SHA1: b900b18cedc3a9023cf0c149b8be6c163662a986
+SHA256: 45a5b7423fc6fd25227bf5a525223e313c1b14c4bce346ef2f50f8e5f23fb8dc
+Section: System
 Homepage: https://namedfork.net/minivmac
 Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
@@ -1493,10 +1496,11 @@ Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3136
 Depends: firmware (>= 7.0)
 Filename: ./debs/minivmac4ios-2.2.1.deb
-Size: 1033070
-MD5sum: fddc687f420674d8bab2aa4ecee4bab7
-SHA1: 45bd194f5d14364ff1f4d93db158196e7c78683f
-SHA256: 230f730d1f5ab41ef44a09d7dd6e1aad4c201fd5bc73fd6dd014b1ae8920dc91
+Size: 512832
+MD5sum: 3b84a4d3c949007c8e6afb8abd57992a
+SHA1: 20a1c5b1442dadd9f867b3c3573015f89d01d994
+SHA256: a20512bfbc368dc5e15291ccac85cca48685d5ba065125cab70b79a30c3f661d
+Section: System
 Homepage: https://namedfork.net/minivmac
 Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
@@ -1509,10 +1513,11 @@ Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3124
 Depends: firmware (>= 7.0)
 Filename: ./debs/minivmac4ios-2.2.2.deb
-Size: 1032664
-MD5sum: 10ca4a8c75d85ee0ab8518e158624438
-SHA1: 6f15452d2aa959b5e2ccbf144fc512d952810c37
-SHA256: b8003ba1cbfb9c5088646bf787d02dab42beadfb5db3d3bf381aaa13f03c022b
+Size: 507196
+MD5sum: 88dd6e6bdec35adb1e6b901b3f8f0a28
+SHA1: 4267e38f1268df753688bbf9d96a4c9753c63d10
+SHA256: be4a90a0de609c59e2c088c2984ac69b7d0fe7882155ea50615ee2c7084eb785
+Section: System
 Homepage: https://namedfork.net/minivmac
 Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
@@ -1525,10 +1530,11 @@ Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3124
 Depends: firmware (>= 7.0)
 Filename: ./debs/minivmac4ios-2.2.3.deb
-Size: 1033728
-MD5sum: 1f52d1df408bc1f942b18a01324d798e
-SHA1: 828dc0f58ea372e5be1091f99229fafcafa6f4c3
-SHA256: 0ac72459ba46b51436e55c31320f31b8417f5d6c8cc247c2b7ccfcc3b8827ddf
+Size: 507744
+MD5sum: 620b991f32309020a637f51de2a74764
+SHA1: b7ab649129007209dc858a0ea1f0482470d0f834
+SHA256: 94e10ec354cb502596c030544eb83ebb185b147d14bb3bf05984df87f9c06477
+Section: System
 Homepage: https://namedfork.net/minivmac
 Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
@@ -1541,10 +1547,11 @@ Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3676
 Depends: firmware (>= 7.0)
 Filename: ./debs/minivmac4ios-2.2.4.deb
-Size: 1187054
-MD5sum: c0625a86bbee60c2286cc1ebf4693ead
-SHA1: 7f4f9fd6b2addd9cec5a8ec98843c2eb9772a37b
-SHA256: 948191c9eec93feb63ea04d5fe2adfe1f74f4d4ffdd188eb2ff99fec25b310a2
+Size: 549036
+MD5sum: 35793ff95d38f7c7e014bb1ea0c3a1dc
+SHA1: 83842e5dc44cc7b39254e818a01aae1b6e518c70
+SHA256: d6feb8d06605f7d0201f957f7c45bf75d23a9ecfcde8b116a764513b9d5657a3
+Section: System
 Homepage: https://namedfork.net/minivmac
 Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
@@ -1557,10 +1564,11 @@ Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3684
 Depends: firmware (>= 7.0)
 Filename: ./debs/minivmac4ios-2.3.deb
-Size: 1196858
-MD5sum: e110734053162435043b78481127bac5
-SHA1: 8b4d45d34fa3d7ba0978358efc3f9e62622b41a5
-SHA256: 99320f06071e23af55e89a9222a8dce09e9c7870b95803dd90012e2d7b0265a0
+Size: 563196
+MD5sum: 265b3d908ab6d67929ab63f577763f3e
+SHA1: badc2b2fb893c3f8337d5fb13076ef37af40b379
+SHA256: 5907d68f0fab438dbbdc059d711273ed08320fc255b766f7429f9d6e7d087543
+Section: System
 Homepage: https://namedfork.net/minivmac
 Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
@@ -1573,10 +1581,11 @@ Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 4028
 Depends: firmware (>= 7.0)
 Filename: ./debs/minivmac4ios-2.3.1.deb
-Size: 1295692
-MD5sum: 8d8f25fd71034115c1487c22a5340952
-SHA1: 8dd219a3dabb49b649522b55386a198d76afd1d0
-SHA256: f853460f6634c11105fc96f5e1967e6cfa6e321221f400694bb1ab242ccee33e
+Size: 648788
+MD5sum: e6cf026584dc1e6563b25bf751186aff
+SHA1: efc2987428674887282e8c95c3e77f39d50029e7
+SHA256: 537f3f49fb53d7ca3fefe3bf4c946e17b00fcf1ad69c02db39def1e3832926e8
+Section: System
 Homepage: https://namedfork.net/minivmac
 Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
@@ -1589,10 +1598,11 @@ Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 4184
 Depends: firmware (>= 7.0)
 Filename: ./debs/minivmac4ios-2.3.2.deb
-Size: 1386460
-MD5sum: 999037c33edffa36cdc76177aa0640ef
-SHA1: 1fad5d2d8b62e4db0239ffc2be243260dcc45189
-SHA256: 82e27e56daf02e6417dd69aa0e83de89808ceef45edf168d91b4a3ca9d5186fb
+Size: 735980
+MD5sum: 6a38010b8069696c93097ecaed2f004e
+SHA1: 69769250cd98317a1aa6b27ea46b074587041f1b
+SHA256: 7eb8320a9bf6ac0496b6a7c2dc3145ef84b00e72d3bcb341cde1ddca56e72a4a
+Section: System
 Homepage: https://namedfork.net/minivmac
 Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
@@ -1605,10 +1615,11 @@ Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3820
 Depends: firmware (>= 7.0)
 Filename: ./debs/minivmac4ios-2.4.deb
-Size: 1256336
-MD5sum: c440260dde21964bdfb2c444e977eb5d
-SHA1: a50138ca6708f7ae908883768655a96654fb69cc
-SHA256: d808c057701580873b88a2fe66e9f8c2f3efe1515354c269db238386a891d9d1
+Size: 721556
+MD5sum: 008e9c16bc71fbc6287c9276decc429d
+SHA1: 17ad1c5256657fee24a65d1ba08ea69fe82166cd
+SHA256: 24172260c0b3a5ab6e50b59761f58d3e2dcc647bbc9edf00c452297ca42aab32
+Section: System
 Homepage: https://namedfork.net/minivmac
 Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
@@ -1621,10 +1632,11 @@ Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3504
 Depends: firmware (>= 7.0)
 Filename: ./debs/minivmac4ios-2.5.deb
-Size: 1053406
-MD5sum: fd0d15c01ec5d21d45f14bec2f93a813
-SHA1: 404efd55a41c59a6a38648f0089087376c8c54e8
-SHA256: 60780797e457857693f329b166a33cc6bd25c66ac544f2b75054b9938245ffbc
+Size: 527436
+MD5sum: f3e15276fd7aa4fa4798f94654f2abf5
+SHA1: 203d9970ebf04488edbcf215367a2fa74c38778a
+SHA256: a5589afc07e171e4b60e200b3956929b0eddc64a6376ad08ccca7dc76193f96e
+Section: System
 Homepage: https://namedfork.net/minivmac
 Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
@@ -1637,10 +1649,11 @@ Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 2272
 Depends: firmware (>= 13.4)
 Filename: ./debs/minivmac4ios-2.6.deb
-Size: 659644
-MD5sum: 82910b8895a5ac64063ffd138aa4d8fb
-SHA1: 3085b82c8552650f01df165ca3128f7790706dff
-SHA256: 44e9284aa09726421f85a3fbda288f3202692d57c5c7e234deb023a9c502ee09
+Size: 291708
+MD5sum: 8c245b1cb8912a23838694b1b93ac17f
+SHA1: 7bf8e76cc2eb74a83eb39e05fa3bc59420349858
+SHA256: a5bf8cf2ef74016d78dbe407283f8e27e12e3514534516e730fa5dd329c1e374
+Section: System
 Homepage: https://namedfork.net/minivmac
 Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
@@ -2198,11 +2211,11 @@ Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vnm>
 Filename: ./debs/dospad_2.0.1.deb
-Size: 4150400
-MD5sum: 544b0fa6b8e3e7018d6187af4c2dea64
-SHA1: 4f183691b345f2a879c4173a41ccb8f817a96f9b
-SHA256: 57b5acfb597bbe48b6bcf3fd7bffd2e4a45c24d2be861bda9c6f15284d94e5c4
-Section: Tools
+Size: 4151628
+MD5sum: 11de2ec981119dd617750fa7cfde1ff3
+SHA1: 0befc3691485e8f38a64bf5d038585dced59d65c
+SHA256: 3d1d989d1ea8dbd1973212963d8e7db919306824d5c19eba198504d28a4d99a0
+Section: System
 Homepage: http://cydia.vn/
 Description: DOSPAD is a first dos emulator for iPhone/iPad, based on dosbox 0.74.
 Author: Chaoji Li
