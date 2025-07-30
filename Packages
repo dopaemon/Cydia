@@ -1954,6 +1954,22 @@ Author: Linus Yang, Karen Tsai
 Depiction: http://cydia.vn/depic/t4522/
 Name: AppSync for iOS 5, 6, 7, 8, 9
 
+Package: vn.gsm.dospad
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vnm>
+Filename: ./debs/dospad_2.0.1.deb
+Size: 4150400
+MD5sum: 544b0fa6b8e3e7018d6187af4c2dea64
+SHA1: 4f183691b345f2a879c4173a41ccb8f817a96f9b
+SHA256: 57b5acfb597bbe48b6bcf3fd7bffd2e4a45c24d2be861bda9c6f15284d94e5c4
+Section: Tools
+Homepage: http://cydia.vn/
+Description: DOSPAD is a first dos emulator for iPhone/iPad, based on dosbox 0.74.
+Author: Chaoji Li
+Depiction: http://cydia.vn/depic/t5808/
+Name: DOSPAD - dosbox for iOS
+
 Package: xyz.eshaydev.ignition
 Version: 1.0.0
 Architecture: iphoneos-arm
