@@ -78,7 +78,7 @@ Size: 177974
 MD5sum: 10d2ac4a62b5fa8affa7dc3fb5ed4aa3
 SHA1: 21c36022cb985161b4ddc365240f64b6ef129bd0
 SHA256: b8af862a4f4044f0282ed13eb2cdf8002048dde75b3dfa2e340ecf9bc8152244
-Section: Addons (NotificationCenter)
+Section: Addons
 Priority: optional
 Homepage: http://www.iphoneislam.com
 Description: Hijri Widget By iPhoneIslam. Islamic calendar or Hijri calendar is a lunar calendar used to date events in many predominantly Muslim countries, and used by Muslims everywhere to determine the proper day on which to celebrate Islamic holy days and festivals.
@@ -358,7 +358,7 @@ Size: 70516
 MD5sum: 2fc68eccccf388d657a2c76686a1925e
 SHA1: 5004f702eb0967cfa05c7757dd3b01254b5566c1
 SHA256: acdba054da9a231ac3c3ef4ffc16017beb4f8d527269e4484ab16e9aa0838c89
-Section: Netskao-Tweaks
+Section: Tweaks
 Description: 支付宝去除底部理财和口碑或生活选项，去除底部红点显示等，理财是不可能理财的，只有收收钱勉强维持生活
 Author: Netskao
 Name: 支付宝 Hooks
@@ -391,7 +391,7 @@ Size: 729450
 MD5sum: fbe1ffeb424d8d13ea5c4585a1e16c75
 SHA1: c5dfb07112dd33227556cacd3f9b99a9cab24b3d
 SHA256: dfcac6fb09c802b723ae8a93c14623a464f8ecd7c236408fcdcd24f37e14ed0b
-Section: Netskao-Tweaks
+Section: Tweaks
 Description: Decrypt iOS Apps
 Author: Netskao
 Name: DumpDecrypter
@@ -472,7 +472,7 @@ Size: 634572
 MD5sum: 9d4d2c878c0e7f55d22cf02f151c4930
 SHA1: a851b434c71e982189724777097a8fdfe6f28290
 SHA256: e48ed7eefe6c25b55ced4d301e88b913d24c5f2f85439d297a3b06a380594db8
-Section: Netskao-NoAds
+Section: NoAds
 Description: 网易云音乐去除启动广告，去除评论区相关信息和广告，去除首页顶部横幅中插入的广告，去除搜索页面顶部广告，去除播放页面顶部右上角在唱，去除左侧设置无关紧要选项，绕过越狱检测可收藏可评论，解除非中国地区播放限制，增加使用原始分享按钮保存任意视频到相册，增加缓存歌曲导出(下载或本地页面，歌曲操作面板导出，支持自动解密ncm格式)
 Author: Netskao
 Name: 网易云音乐 NoAds
@@ -604,7 +604,7 @@ Size: 284828
 MD5sum: 6d566faf7afa8959b114e9444a3f7916
 SHA1: 822de108f99b624440bc2352f68efc004edaeb4d
 SHA256: 5054e3c672fee07e5b5aba2ce5004b97b1b790fc407446c10817159efd84e5e1
-Section: !GSMVN-Tools
+Section: Tools
 Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: Giúp cài đặt các Apps đã Crack trên OS3.0
 Author: Reilly <appsync@hackulo.us>
@@ -623,7 +623,7 @@ Size: 296624
 MD5sum: fdae20ebe41ce13f9dc6ae42594eacea
 SHA1: 9f0870e172ee5f2b5882935d04b1cdee2b85605c
 SHA256: b12cb66c4f981b314887ae2d730c8766393a737f187d7a4fc3d4b0552c45466c
-Section: !GSMVN-Tools
+Section: Tools
 Priority: standard
 Description: Giúp cài đặt các Apps đã Crack trên iPhone OS3.1.x
 Author: Reilly <appsync@hackulo.us>
@@ -643,7 +643,7 @@ Size: 274694
 MD5sum: 6158b106e71f23fefcc398085ba864c9
 SHA1: 5d512c83c24ceb7f691b7fdb21816ba8d6d51f3b
 SHA256: d21f168094a0bf9483cc756f7d7f2452f19b660148cc22d6a1c6932b81f09473
-Section: !GSMVN-Tools
+Section: Tools
 Priority: standard
 Description: Giúp cài đặt các Apps đã Crack trên iPad OS3.2.x
 Author: Dissident <apps@hackulo.us>
@@ -661,7 +661,7 @@ Size: 9218
 MD5sum: b12d9dc94183cce64c7d117fe58319aa
 SHA1: 41432f15d046a6cc44f3deae062b945eb850c6ca
 SHA256: c34d7e815b851eac35363ea3a9112302333bf92b4c4a246606cad1bf32518c09
-Section: !GSMVN-Tools
+Section: Tools
 Priority: standard
 Homepage: http://cydia.vn/
 Description: AppSync allows you to sync and install cracked iOS applications.
@@ -683,7 +683,7 @@ Size: 4618
 MD5sum: ad8176e8837387a9fb8389dc52ce80de
 SHA1: a18683ead32ea0fd9b89949f96c78d3d6e9cf443
 SHA256: 4acea4f09a46eaabaa7623ab305d2e803f400e377be33e893bc942d789091238
-Section: !CydiaVn-Tools
+Section: Tools
 Priority: standard
 Homepage: http://cydia.vn/
 Description: AppSync allows you to sync and install cracked iOS applications.
@@ -706,7 +706,7 @@ Size: 149682
 MD5sum: 7d88cdf52662461b4836028c6c7b1c4f
 SHA1: 96f7b5a80a75b5154b11d27847faad9f63244bdb
 SHA256: a88e3f87aa973cce9d591259c46c905ea8ea4947e6322870ae89131951936e98
-Section: !CydiaVn-Tools
+Section: Tools
 Homepage: http://cydia.vn/
 Description: Works on iOS 5, 6, 7, 8 & 9. AppSync Unified allows you to sync and install unsigned iOS applications.
 Author: Linus Yang, Karen Tsai
@@ -727,7 +727,7 @@ Size: 162656
 MD5sum: 6c7cf576f6d8b910a3c8cbeb14b21e67
 SHA1: 895cafb76ed3da786458847fc775e32ee31709fb
 SHA256: dab5ec2b29cc8767e0354357ff58e5c536650f7774ab0c1feda2ecd78d430b48
-Section: !CydiaVn-Tools
+Section: Tools
 Homepage: http://cydia.vn/
 Description: Works on iOS 5, 6, 7, 8 & 9. AppSync Unified allows you to sync and install unsigned iOS applications.
 Author: Linus Yang, Karen Tsai
