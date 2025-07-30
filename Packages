@@ -121,6 +121,23 @@ Description: At last NTRA allows GPS in Egypt. This patch will enable GPS on you
 Author: iPhoneIslam <info@iphoneislam.com>
 Name: GPS in Egypt (2.2.x)
 
+Package: com.litchie.aemula
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: support@litchie.com
+Filename: ./debs/aemula.deb
+Size: 2907576
+MD5sum: 760cccc2281d5a4e7e38ab64140d8339
+SHA1: a072932267c8768d848feb27b0a8e2203b1bffe8
+SHA256: 49f3fabd4fb1c068ff7fa08ee6edd12722d092bfc424be7133cfb15824f61ed1
+Section: Games
+Homepage: http://www.aemula.net/aemula-cydia-intro.html
+Description: An 80486 PC Emulator for iOS. Mount floppy, hard disk, and CDROM images (*.iso).
+Author: litchie
+Depiction: http://www.aemula.net/aemula-cydia-intro.html
+Name: Aemula - 486 PC Emulator
+Sponsor: None
+
 Package: com.michael.appleturboboost
 Version: 0.7.0
 Architecture: iphoneos-arm
@@ -1372,6 +1389,23 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
 Name: AppSync Unified
+
+Package: net.litchie.dospad
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Chaoji Li<lichaoji@gmail.com>
+Filename: ./debs/dospad.deb
+Size: 3546204
+MD5sum: 131753909186aa92a4ae5a897ae2d942
+SHA1: 7b76d1eb19f7a66d70e09821407bdfb834621949
+SHA256: 908206089b0b8c0122d00a604d96b21a38d24dd0576fbb7c7e03dc20bd0d4fed
+Section: Games
+Homepage: http://www.litchie.com/blog/?page_id=123
+Description: DOSPAD is a first dos emulator for iPhone/iPad, based on dosbox 0.74.
+Author: Chaoji Li<lichaoji@gmail.com>
+Depiction: http://www.litchie.com/apps/dospad-short.html
+Name: DOSPAD - dosbox for iOS
+Sponsor: None
 
 Package: netskao.alipayhooks
 Version: 1.1-2
