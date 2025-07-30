@@ -358,7 +358,7 @@ Size: 70516
 MD5sum: 2fc68eccccf388d657a2c76686a1925e
 SHA1: 5004f702eb0967cfa05c7757dd3b01254b5566c1
 SHA256: acdba054da9a231ac3c3ef4ffc16017beb4f8d527269e4484ab16e9aa0838c89
-Section: Tweaks
+Section: Netskao-Tweaks
 Description: 支付宝去除底部理财和口碑或生活选项，去除底部红点显示等，理财是不可能理财的，只有收收钱勉强维持生活
 Author: Netskao
 Name: 支付宝 Hooks
@@ -472,7 +472,7 @@ Size: 634572
 MD5sum: 9d4d2c878c0e7f55d22cf02f151c4930
 SHA1: a851b434c71e982189724777097a8fdfe6f28290
 SHA256: e48ed7eefe6c25b55ced4d301e88b913d24c5f2f85439d297a3b06a380594db8
-Section: Tweaks
+Section: Netskao-NoAds
 Description: 网易云音乐去除启动广告，去除评论区相关信息和广告，去除首页顶部横幅中插入的广告，去除搜索页面顶部广告，去除播放页面顶部右上角在唱，去除左侧设置无关紧要选项，绕过越狱检测可收藏可评论，解除非中国地区播放限制，增加使用原始分享按钮保存任意视频到相册，增加缓存歌曲导出(下载或本地页面，歌曲操作面板导出，支持自动解密ncm格式)
 Author: Netskao
 Name: 网易云音乐 NoAds
