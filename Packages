@@ -1,3 +1,20 @@
+Package: FaceIt3GS-4.2.1
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Pre-Depends: firmware (= 4.2.1)
+Depends: mobilesubstrate
+Filename: ./debs/FaceIt-3GS_421_V1_1.deb
+Size: 456150
+MD5sum: ccec68df7905f17e31d5e671bcfc213b
+SHA1: dcc6af75cc23ca304c3c4e2483acb23f462691e9
+SHA256: 803a2be591af6d324868982c454e0afcc8e340b8c584e4160c821b886eea2e4a
+Section: Tweaks
+Homepage: http://www.iphoneislam.com
+Description: FaceTime For 3GS
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: FaceIt-3GS-4.2.1 (iPhoneIslam)
+
 Package: Flex3beta
 Version: 1:3~Beta86
 Architecture: iphoneos-arm
@@ -33,6 +50,76 @@ Description: Develop your own tweaks and share them on the Flex Community Cloud
 Author: John Coates
 Name: Flex 3 Beta
 Recommended: com.rpetrich.rocketbootstrap
+
+Package: arabtallere-ipad
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Pre-Depends: firmware (>= 3.2)
+Depends: mobilesubstrate
+Filename: ./debs/Arabtaller_iPad_13.deb
+Size: 12246
+MD5sum: 5884b4c59a6c1ea9e8c424f23a096d75
+SHA1: 72ef11b79e22c8e9da8cdf35d74fbe60d0bf164d
+SHA256: 775329daff63e9cd09119d5cf91fbef00db21a80c08fd928d181fe33a8d8d30f
+Section: Localization
+Homepage: http://www.iphoneislam.com
+Description: iPad Native Arabic Keyboard. Now you can read/write Arabic smoothly on all iPad apps. Note: Native Arabic Keyboard Also Supports Right To Left.
+Author: iPhoneIslam <info@iphoneislam.com>
+Depiction: http://www.iphoneislam.com/ArabtallerPlus/Cydia/iPad
+Name: Arabtaller iPad
+
+Package: com.iphoneislam.HijriWidget
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), preferenceloader
+Filename: ./debs/HijriWidget_1.1-1.deb
+Size: 177974
+MD5sum: 10d2ac4a62b5fa8affa7dc3fb5ed4aa3
+SHA1: 21c36022cb985161b4ddc365240f64b6ef129bd0
+SHA256: b8af862a4f4044f0282ed13eb2cdf8002048dde75b3dfa2e340ecf9bc8152244
+Section: Addons (NotificationCenter)
+Priority: optional
+Homepage: http://www.iphoneislam.com
+Description: Hijri Widget By iPhoneIslam. Islamic calendar or Hijri calendar is a lunar calendar used to date events in many predominantly Muslim countries, and used by Muslims everywhere to determine the proper day on which to celebrate Islamic holy days and festivals.
+Author: iPhoneIslam
+Dev: Tarek Mansour
+Identifier: iPhoneIslam_Hijri_Widget
+Name: iPhoneIslam Hijri Widget
+
+Package: com.iphoneislam.arabtallereplus
+Version: 2.2.1-2
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Depends: mobilesubstrate (>= 0.9.2690-1), firmware (>= 2.2)
+Filename: ./debs/ArabtallerPlus_221_2.deb
+Size: 3293736
+MD5sum: 8dcbc688e9a2dfbfcad6af2135285948
+SHA1: 8635e9b0c8febdc851a0d8e965fc42d19947baaa
+SHA256: aedc51d38a7b73756f3c644922e829394fd2120a1f6959397802c3e0b9a9d8bf
+Section: Localization
+Priority: optional
+Description: (Firmware 2.2.x Only) A full iPhone/iPod Touch Arabization. Now you can read/write Arabic, Farsi, and Urdu also other improvements to the device so that fits smoothly your Arabic needs.
+Author: iPhoneIslam <info@iphoneislam.com>
+Depiction: http://www.iphoneislam.com/ArabtallerPlus/Cydia
+Icon: file:///Applications/Arabtaller.app/icon.png
+Name: Arabtaller Plus (2.2.x)
+
+Package: com.iphoneislam.gpsineg
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Depends: firmware (>= 2.2)
+Filename: ./debs/GPSinEG1.deb
+Size: 363850
+MD5sum: d82fee9b16df03d0729c6ae21a068cd6
+SHA1: 0ca52ebcbc851af78c931cd46c5645d7e8a51341
+SHA256: 6662514dddaa6c4f7015a603887a417d2cefefb04f91a17525fb61820c729e7b
+Section: Tweaks
+Priority: optional
+Description: At last NTRA allows GPS in Egypt. This patch will enable GPS on your iPhone 3G, Works only on firmware 2.2, 2.2.1. (Use it only if you are in Egypt and your iPhone is 3G)
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: GPS in Egypt (2.2.x)
 
 Package: com.michael.appleturboboost
 Version: 0.7.0
@@ -152,6 +239,59 @@ Description: Repackage any of your tweaks locally, without the need to download 
 Author: T.Herak <50dc856b@opayq.com>
 Depiction: https://wiety.github.io/cydia/depictions/?p=com.vsz.redeb
 Name: redeb
+
+Package: faceit3gs-4.3.3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Pre-Depends: firmware (= 4.3.3)
+Depends: faceit3gslib-4.3.3
+Filename: ./debs/FaceIt-3GS_433_V1_0.deb
+Size: 248274
+MD5sum: 89268c81e433564c7fb78efdd8f1bfe8
+SHA1: 920e9001cdef2bbb341ba9e1cda97b719afae7dc
+SHA256: 07ee98e5202bd9916d8ec9caf002585a36334f0ef7636f6a1e3b512f1179d14b
+Section: Tweaks
+Priority: standard
+Homepage: http://www.iphoneislam.com
+Description: FaceTime For 3GS
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: FaceIt-3GS-4.3.3 (iPhoneIslam)
+
+Package: faceit3gslib-4.3.3
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Pre-Depends: firmware (= 4.3.3)
+Depends: mobilesubstrate
+Filename: ./debs/FaceIt-3GS_Lib_433_V1_1.deb
+Size: 519652
+MD5sum: 43140d9cf614f95f4ec091502ffc465e
+SHA1: 697a4aaeea46b7bd8884496e0c214f0100bbce27
+SHA256: 9f5cd52ff5f00b25097e715c8fb9a13381e3ea317b09661ed477113f96eb5a29
+Section: System
+Priority: optional
+Homepage: http://www.iphoneislam.com
+Description: FaceTime For 3GS
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: FaceIt-3GS-Lib-4.3.3
+
+Package: facetime-hacktivator
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Pre-Depends: firmware (>= 4.1)
+Depends: mobilesubstrate
+Filename: ./debs/II_FT_Hacktivator_2_0.deb
+Size: 2514
+MD5sum: e95172bb856a61df268daf557633de6b
+SHA1: 00667657a3fd647ef6151d3e749b62497aa74a66
+SHA256: 2bcfec7199fcfeaa0bfd0802195a5c251ba988be06d4f09c538abdc41877246a
+Section: Tweaks
+Homepage: http://www.iphoneislam.com
+Description: FaceTime Hacktivator Enabled FaceTime on iPhone 4 (This will not activate FT, it only shows it on phone settings if Apple blocked it in your country)
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: FaceTime Hacktivator (iPhoneIslam)
 
 Package: kr.xsf1re.flyjbx
 Version: 1.2.5
@@ -352,6 +492,57 @@ Section: Tweaks
 Description: Dismiss installation window without closing cydia.
 Author: PoomSmart
 Name: DismissProgress
+
+Package: phoneitipda-4.3.3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Depends: mobilesubstrate
+Filename: ./debs/PhoneItiPad_4.3.3_1.1.deb
+Size: 7380348
+MD5sum: 622cf1807a3b0773f3b7d2590549b2aa
+SHA1: be0e24b89ea9bbc4c7d684063d8f7c55f3bf3f28
+SHA256: 1f8b6b97158ea7e90bf109e9af24cace775cbcc95be9a70ba1c9082dbbcf07c2
+Section: Tweaks
+Priority: standard
+Homepage: http://www.iphoneislam.com
+Description: Turn your iPad 1 3G into a fully functional phone
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: PhoneIt-iPad-4.3.3 (iPhoneIslam)
+
+Package: phoneitipda-5.0
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Depends: mobilesubstrate
+Filename: ./debs/PhoneItiPad_5.0.x_2.0.deb
+Size: 2631674
+MD5sum: ae5a152a58a327ac7b03ad888fdb23d8
+SHA1: 1711627ced16b1d6a5c76902155f61e71a9532bd
+SHA256: c94344492f7c80e5c93767143ab63c1399cd243a25d32c744ed36fbc0c3d1e24
+Section: Tweaks
+Priority: standard
+Homepage: http://www.iphoneislam.com
+Description: Turn your iPad 1 3G into a fully functional phone
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: PhoneIt-iPad-5.0 (iPhoneIslam)
+
+Package: phoneitipda-5.1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Depends: mobilesubstrate
+Filename: ./debs/PhoneItiPad_5.1.x_1.0.deb
+Size: 2602226
+MD5sum: d0389e3028665d4f23a58b1db2bbe283
+SHA1: dd58324eac5dce1c250803903aacb5f675bc4911
+SHA256: 69834fcd932456caaf58706493419810d4ce879b59752e73dbbcea699135891c
+Section: Tweaks
+Priority: standard
+Homepage: http://www.iphoneislam.com
+Description: Turn your iPad 1 3G into a fully functional phone
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: PhoneIt-iPad-5.1 (iPhoneIslam)
 
 Package: run.er.wormctrl
 Version: 1.1.0
