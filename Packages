@@ -1599,6 +1599,22 @@ Author: Jesus A. Alvarez <zydeco@namedfork.net>
 Name: Mini vMac
 
 Package: net.namedfork.minivmac
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 3504
+Depends: firmware (>= 7.0)
+Filename: ./debs/minivmac4ios-2.5.deb
+Size: 1053406
+MD5sum: fd0d15c01ec5d21d45f14bec2f93a813
+SHA1: 404efd55a41c59a6a38648f0089087376c8c54e8
+SHA256: 60780797e457857693f329b166a33cc6bd25c66ac544f2b75054b9938245ffbc
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: net.namedfork.minivmac
 Version: 2.6
 Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
