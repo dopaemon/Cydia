@@ -74,11 +74,11 @@ Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), preferenceloader
 Filename: ./debs/HijriWidget_1.1-1.deb
-Size: 177974
-MD5sum: 10d2ac4a62b5fa8affa7dc3fb5ed4aa3
-SHA1: 21c36022cb985161b4ddc365240f64b6ef129bd0
-SHA256: b8af862a4f4044f0282ed13eb2cdf8002048dde75b3dfa2e340ecf9bc8152244
-Section: Addons (NotificationCenter)
+Size: 170244
+MD5sum: ffd74cf6455f6fb8e2cbcc2129a0c2eb
+SHA1: 3e7c2ff64803680cb13d0207a74f6ef4f3932b9b
+SHA256: 3deb71c236112635d8dbfa681360358a141e26ca9a4a7f90c35ebf20660e118e
+Section: Addons
 Priority: optional
 Homepage: http://www.iphoneislam.com
 Description: Hijri Widget By iPhoneIslam. Islamic calendar or Hijri calendar is a lunar calendar used to date events in many predominantly Muslim countries, and used by Muslims everywhere to determine the proper day on which to celebrate Islamic holy days and festivals.
@@ -749,11 +749,11 @@ Maintainer: Team FESTIVAL <weare@festival.tf>
 Installed-Size: 1848
 Depends: ml.festival.lockwatch2 (>= 2.1-b1)
 Filename: ./debs/ml.festival.lockwatch2.bands.s4_1.0_iphoneos-arm.deb
-Size: 1728280
-MD5sum: f07e6dd37cb70e741d92b459f527318d
-SHA1: 853a2a46a8073283f45bcbf5aed1d1c05035f619
-SHA256: c18958d244f0358c5f633ff9a6056f121a11cbf20e449ac164734f5dbfd22fb8
-Section: Bands (LockWatch 2)
+Size: 1718472
+MD5sum: c0092043cba9eefa9087f62dc64e15a2
+SHA1: 00896f5f3d1473a0f8b8ed30ad4bfb937cf557e9
+SHA256: 64456b99dc01271f844b50012915e994d17290949efe720bc82d69dd5b260c4d
+Section: Themes
 Description: An incomplete collection of Apple Watch Bands released for Series 4 and earlier
 Author: Sniper_GER <sniperger@festival.tf>
 Name: LockWatch 2 Bands - Series 4
@@ -765,11 +765,11 @@ Maintainer: Team FESTIVAL <weare@festival.tf>
 Installed-Size: 268
 Depends: ml.festival.lockwatch2 (>= 2.1-b1)
 Filename: ./debs/ml.festival.lockwatch2.cases.s3_1.0_iphoneos-arm.deb
-Size: 170246
-MD5sum: d99ca230ed3e18450fcdf747935c995e
-SHA1: 7c2eb1ca2b8258a4562881206ccfc19418782785
-SHA256: d49f4d5fd7591dfa63cf2334b0bc91d306762cadc60c553126e50958359ba1e0
-Section: Cases (LockWatch 2)
+Size: 169824
+MD5sum: e21eac6fe3a4ad3cc63b63aef11d6863
+SHA1: 3048695583ee51d2e9a60a2eb5f879e8436a9b17
+SHA256: 93fa34182f9f22c8761fe938866961553d214cbb7e84973ae97a36e2b49e8199
+Section: Themes
 Description: Apple Watch Series 3 (and earlier) cases for LockWatch 2
 Author: Sniper_GER <sniperger@festival.tf>
 Name: LockWatch 2 Cases - Series 3
@@ -781,11 +781,11 @@ Maintainer: Team FESTIVAL <weare@festival.tf>
 Installed-Size: 372
 Depends: ml.festival.lockwatch2 (>= 2.1-b1)
 Filename: ./debs/ml.festival.lockwatch2.cases.s5_1.0_iphoneos-arm.deb
-Size: 250470
-MD5sum: 1c02f31ab6666400efd25fb2dbe41601
-SHA1: f628fb2efcb0bdeb4f23d2e872a8084f9cb9cf51
-SHA256: f68bd9e8f5f963c7e7fea7dcac85ce4693f761dc10ed817608f226163f99b173
-Section: Cases (LockWatch 2)
+Size: 250036
+MD5sum: 903ca7ea1aabfceb6c561c5972784c8d
+SHA1: e92dc159e8ab3babc95b493d73df0731d8479c28
+SHA256: a7d58f53d1de8eead5de2244b438caf158f390302d63dc7f8ff438d24c7a2166
+Section: Themes
 Description: Apple Watch Series 5 cases for LockWatch 2
 Author: Sniper_GER <sniperger@festival.tf>
 Name: LockWatch 2 Cases - Series 5
@@ -797,11 +797,11 @@ Maintainer: Team FESTIVAL <weare@festival.tf>
 Installed-Size: 536
 Depends: ml.festival.lockwatch2 (>= 2.1-b1)
 Filename: ./debs/ml.festival.lockwatch2.cases.s6_1.0_iphoneos-arm.deb
-Size: 308724
-MD5sum: 2834e4a2cd7b295d86a5580399ea5d46
-SHA1: 3de701d7e7f5f0e3f135055b6985debeef084d52
-SHA256: 3208a7fe7bcc648cc5dcec14f5f7b0c7d892b1cbf3ca0a33b8583fbbd5c1f538
-Section: Cases (LockWatch 2)
+Size: 307660
+MD5sum: 41fd923af413779e7bf5cd5989246f09
+SHA1: 98973f5f66737204f0a7cbedfe1cfd81cfc68700
+SHA256: 34cf7b5f90f536611c567c4f0467ed2a019d120a4a822af629f96cdff18f95dc
+Section: Themes
 Description: Apple Watch Series 6 cases for LockWatch 2
 Author: Sniper_GER <sniperger@festival.tf>
 Name: LockWatch 2 Cases - Series 6
@@ -813,11 +813,11 @@ Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 244
 Depends: ml.festival.lockwatch2 (>= 2.0b4)
 Filename: ./debs/ml.festival.lockwatch2.faces_1.0_iphoneos-arm.deb
-Size: 72926
-MD5sum: 9d3b389d81bfa73855b956903c18f89b
-SHA1: 0e54e9d7533fa1dad76112eec30adbc458c98c4e
-SHA256: 0a3f6742c221fb34aec4292b57cab74ca9332cf277738d2b3f1d03563cf9de9e
-Section: Watch Faces (LockWatch 2)
+Size: 72952
+MD5sum: 85c724ac936d676da2a683d816580333
+SHA1: 716b3b27dfe21eb54b024d923e0c6aa8354eadf0
+SHA256: 6c0bf7e3825b5b8f80629e8067fb916ff3ab4388c2a3a86dad86ea8f82744a72
+Section: Themes
 Description: Custom watch faces for LockWatch 2, created by Team FESTIVAL
 Author: Sniper_GER <sniperger@festival.tf>
 Name: LockWatch2CustomFaces
@@ -1380,11 +1380,11 @@ Maintainer: Nets
 Installed-Size: 236
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/netskao.alipayhooks_1.1-2_iphoneos-arm.deb
-Size: 70516
-MD5sum: 2fc68eccccf388d657a2c76686a1925e
-SHA1: 5004f702eb0967cfa05c7757dd3b01254b5566c1
-SHA256: acdba054da9a231ac3c3ef4ffc16017beb4f8d527269e4484ab16e9aa0838c89
-Section: Netskao-Tweaks
+Size: 54424
+MD5sum: 6d8c2b13b9d1cdb6954461ecf06d3ba7
+SHA1: 3f8480c397f057d2239f416884f43b45b311cc0b
+SHA256: 830ecae247c9b38a9127f3e06dae3ba4fa067128db935ce971de62b34cc51321
+Section: Tweaks
 Description: 支付宝去除底部理财和口碑或生活选项，去除底部红点显示等，理财是不可能理财的，只有收收钱勉强维持生活
 Author: Netskao
 Name: 支付宝 Hooks
@@ -1413,11 +1413,11 @@ Maintainer: Nets
 Installed-Size: 2428
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/netskao.dumpdecrypter_1.3-7_iphoneos-arm.deb
-Size: 729450
-MD5sum: fbe1ffeb424d8d13ea5c4585a1e16c75
-SHA1: c5dfb07112dd33227556cacd3f9b99a9cab24b3d
-SHA256: dfcac6fb09c802b723ae8a93c14623a464f8ecd7c236408fcdcd24f37e14ed0b
-Section: Netskao-Tweaks
+Size: 528936
+MD5sum: c648d92cfc38e2ae80b46296f2800d85
+SHA1: f4b163ac249cc1326255e6963527e9a463e11df4
+SHA256: 936b4536a6d250886c3b566d1dd5dfa3c5642a777b5ab25333aaceb8746c4699
+Section: Tweaks
 Description: Decrypt iOS Apps
 Author: Netskao
 Name: DumpDecrypter
@@ -1494,11 +1494,11 @@ Maintainer: Nets
 Installed-Size: 2116
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/netskao.wyyyynoads_1.2-6_iphoneos-arm.deb
-Size: 634572
-MD5sum: 9d4d2c878c0e7f55d22cf02f151c4930
-SHA1: a851b434c71e982189724777097a8fdfe6f28290
-SHA256: e48ed7eefe6c25b55ced4d301e88b913d24c5f2f85439d297a3b06a380594db8
-Section: Netskao-NoAds
+Size: 417080
+MD5sum: f79c14f44141b53eb18800ee9495af70
+SHA1: eda98f9dc6d2e27ce04c7d0ea506dee2acc0620d
+SHA256: 1f5c3fd4e7542e5decde4db589cf0a70ed3308ffe83bbab09e0fb9722679a49f
+Section: Tweaks
 Description: 网易云音乐去除启动广告，去除评论区相关信息和广告，去除首页顶部横幅中插入的广告，去除搜索页面顶部广告，去除播放页面顶部右上角在唱，去除左侧设置无关紧要选项，绕过越狱检测可收藏可评论，解除非中国地区播放限制，增加使用原始分享按钮保存任意视频到相册，增加缓存歌曲导出(下载或本地页面，歌曲操作面板导出，支持自动解密ncm格式)
 Author: Netskao
 Name: 网易云音乐 NoAds
@@ -1786,11 +1786,11 @@ Maintainer: Thieu.Bocap <support@gsm.vn>
 Pre-Depends: firmware (= 3.0) | firmware (= 3.0.1) | firmware (= 3.0.2) | firmware (= 3.0.3) | firmware (= 3.0.4)
 Depends: gsmicon
 Filename: ./debs/appsync30.deb
-Size: 284828
-MD5sum: 6d566faf7afa8959b114e9444a3f7916
-SHA1: 822de108f99b624440bc2352f68efc004edaeb4d
-SHA256: 5054e3c672fee07e5b5aba2ce5004b97b1b790fc407446c10817159efd84e5e1
-Section: !GSMVN-Tools
+Size: 236812
+MD5sum: b1d6d0a38d69a0bbd45b2f810b3b5c62
+SHA1: da8cccf14c18a8f0089d834ad6cfeafbab06c08d
+SHA256: 5faad843294f3748222cd7b28295172102c63e01914d071d02b92415bd9c1dd1
+Section: Tools
 Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: Giúp cài đặt các Apps đã Crack trên OS3.0
 Author: Reilly <appsync@hackulo.us>
@@ -1805,11 +1805,11 @@ Depends: gsmicon
 Conflicts: us.hackulo.appsync31
 Replaces: us.hackulo.appsync31
 Filename: ./debs/appsync31-1.0.1.deb
-Size: 296624
-MD5sum: fdae20ebe41ce13f9dc6ae42594eacea
-SHA1: 9f0870e172ee5f2b5882935d04b1cdee2b85605c
-SHA256: b12cb66c4f981b314887ae2d730c8766393a737f187d7a4fc3d4b0552c45466c
-Section: !GSMVN-Tools
+Size: 248144
+MD5sum: b5bcd9f59213c290c7f7961dac023c86
+SHA1: 196b07cf6770b3a9cd4c02bfeb1e229b463a2a8a
+SHA256: a6af7375eb6834061ebd450b52cd0b17b0a83b2c4cc9d8097f2f370cc2e52185
+Section: Tools
 Priority: standard
 Description: Giúp cài đặt các Apps đã Crack trên iPhone OS3.1.x
 Author: Reilly <appsync@hackulo.us>
@@ -1825,11 +1825,11 @@ Depends: gsmicon
 Conflicts: us.hackulo.appsync32
 Replaces: us.hackulo.appsync32
 Filename: ./debs/appsync32-2-1.deb
-Size: 274694
-MD5sum: 6158b106e71f23fefcc398085ba864c9
-SHA1: 5d512c83c24ceb7f691b7fdb21816ba8d6d51f3b
-SHA256: d21f168094a0bf9483cc756f7d7f2452f19b660148cc22d6a1c6932b81f09473
-Section: !GSMVN-Tools
+Size: 222808
+MD5sum: 8a7cde1fc20f10f4ad9cfcc5645bbe5c
+SHA1: 606dd201f6c33c574945ad58408f36a8aae2b5d2
+SHA256: 556afcedf70b479dd80c593eae642229f2c48d15dfc0afad3a1493128af348a1
+Section: Tools
 Priority: standard
 Description: Giúp cài đặt các Apps đã Crack trên iPad OS3.2.x
 Author: Dissident <apps@hackulo.us>
@@ -1843,11 +1843,11 @@ Maintainer: Cydia.vn <repo@cydia.vn>
 Pre-Depends: firmware (>= 4.0), firmware(<< 4.4)
 Provides: appsync, vn.gsm.appsync40, vn.gsm.appsync41, vn.gsm.appsync42
 Filename: ./debs/appsync40plus_1.1-6-1.deb
-Size: 9218
-MD5sum: b12d9dc94183cce64c7d117fe58319aa
-SHA1: 41432f15d046a6cc44f3deae062b945eb850c6ca
-SHA256: c34d7e815b851eac35363ea3a9112302333bf92b4c4a246606cad1bf32518c09
-Section: !GSMVN-Tools
+Size: 8200
+MD5sum: 7320adc326f6f88c70c1aa07c45f2407
+SHA1: d541dbe0340263b541b7ce38e7a29b79d7c240df
+SHA256: 4b8a1df80d18fdf17914b8e6800ddc9de041f87460aa3213e76005624fc70a8e
+Section: Tools
 Priority: standard
 Homepage: http://cydia.vn/
 Description: AppSync allows you to sync and install cracked iOS applications.
@@ -1865,11 +1865,11 @@ Conflicts: us.hackulo.appsync50, vn.gsm.appsync50
 Replaces: us.hackulo.appsync50, vn.gsm.appsync50
 Provides: appsync, us.hackulo.appsync50plus
 Filename: ./debs/appsync50plus_2.2-1b.deb
-Size: 4618
-MD5sum: ad8176e8837387a9fb8389dc52ce80de
-SHA1: a18683ead32ea0fd9b89949f96c78d3d6e9cf443
-SHA256: 4acea4f09a46eaabaa7623ab305d2e803f400e377be33e893bc942d789091238
-Section: !CydiaVn-Tools
+Size: 4232
+MD5sum: 3e87b8757d997734f87a73e96924d69c
+SHA1: 921a5e48df0253dc0c087f766bc8061521373eb7
+SHA256: 673c9a42fba2cf21c3df576df7e29de312bf47b54bbd8b1b524be163d33a8185
+Section: Tools
 Priority: standard
 Homepage: http://cydia.vn/
 Description: AppSync allows you to sync and install cracked iOS applications.
@@ -1888,11 +1888,11 @@ Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.ap
 Replaces: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
 Provides: appsync
 Filename: ./debs/appsyncunified_5.6-4b.deb
-Size: 149682
-MD5sum: 7d88cdf52662461b4836028c6c7b1c4f
-SHA1: 96f7b5a80a75b5154b11d27847faad9f63244bdb
-SHA256: a88e3f87aa973cce9d591259c46c905ea8ea4947e6322870ae89131951936e98
-Section: !CydiaVn-Tools
+Size: 80160
+MD5sum: efdb88b450120ca7ce3899f325490e5a
+SHA1: 7d3acfa7242d6965669182c52bdf6c3316ab9363
+SHA256: ea20cfacaf375915ea7fc8fc6ccd598c27eef47af3385c1ac1032494563aec1e
+Section: Tools
 Homepage: http://cydia.vn/
 Description: Works on iOS 5, 6, 7, 8 & 9. AppSync Unified allows you to sync and install unsigned iOS applications.
 Author: Linus Yang, Karen Tsai
@@ -1909,11 +1909,11 @@ Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.ap
 Replaces: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
 Provides: appsync
 Filename: ./debs/appsyncunified_5.6-5b.deb
-Size: 162656
-MD5sum: 6c7cf576f6d8b910a3c8cbeb14b21e67
-SHA1: 895cafb76ed3da786458847fc775e32ee31709fb
-SHA256: dab5ec2b29cc8767e0354357ff58e5c536650f7774ab0c1feda2ecd78d430b48
-Section: !CydiaVn-Tools
+Size: 87196
+MD5sum: b59c29819fcb9607a97a14a64fb6fdc7
+SHA1: eb52ac1454ac8fd18dfbcdc77c0b434278bc89f3
+SHA256: 15f00b058d06942d2619378d1fe6c725c44218f4a39b116855069363a5897503
+Section: Tools
 Homepage: http://cydia.vn/
 Description: Works on iOS 5, 6, 7, 8 & 9. AppSync Unified allows you to sync and install unsigned iOS applications.
 Author: Linus Yang, Karen Tsai
