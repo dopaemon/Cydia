@@ -1952,11 +1952,11 @@ Depends: firmware (>= 6.0), mobilesubstrate, com.wynd.dreamboard
 Conflicts: com.zmaster.androidlockxt, repo.biteyourapple.net.androidlockxt
 Replaces: com.zmaster.androidlockxt, repo.biteyourapple.net.androidlockxt
 Filename: ./debs/paragon_1.0.0_iphoneos-arm.paragon.deb
-Size: 2113572
-MD5sum: 78a926860ca9ac8f47e4204c62cb7a88
-SHA1: 87528a1f1b006fd909650f8d5ef2b54f6e149920
-SHA256: 03c09adece479bebbd4bf014321b721c8e2f6fecf8712ae0c3fdbbb7f5bb5862
-Section: BYA Themes
+Size: 1328888
+MD5sum: 5e9cc89819997e5d9c5336e8f6e8aef4
+SHA1: b092e1e91501e0af8819d6262ca94bd74f1cfe1d
+SHA256: c6b60371762efad3126148d7e0c9691c4eba2ec086ebccef0df89994ddf3d79c
+Section: Themes
 Homepage: http://www.biteyourapple.net
 Description: Paragon is the most realistic Windows Phone 8 theme for your iPhone!
 Author: BYA Repository
