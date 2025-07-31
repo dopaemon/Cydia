@@ -1842,24 +1842,6 @@ Name: PhoneIt-iPad-5.0 (iPhoneIslam)
 Package: phoneitipda-5.1
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Pre-Depends: firmware (>= 5.1)
-Depends: mobilesubstrate
-Filename: ./debs/PhoneItiPad_5.1.x_1.0-Crack.deb
-Size: 2091424
-MD5sum: eb287b4b52b423e01799d515575f042b
-SHA1: 33f919bfa2a9f7bbda6d0562bcba8fc55b48cd82
-SHA256: 257732eed7c248353ebb8d4e5793ed79420860b61dc132723107a98f011fee8b
-Section: Tweaks
-Priority: standard
-Homepage: https://dopaemon.github.io/Cydia
-Description: Giúp iPad 1 bản 3G có chức năng nghe gọi đầy đủ.
-Author: iPhoneIslam <info@iphoneislam.com>
-Name: PhoneIt iPad iOS 5.1 (Crack)
-
-Package: phoneitipda-5.1
-Version: 1.0
-Architecture: iphoneos-arm
 Maintainer: iPhoneIslam Support <info@iphoneislam.com>
 Depends: mobilesubstrate
 Filename: ./debs/PhoneItiPad_5.1.x_1.0.deb
@@ -1873,6 +1855,24 @@ Homepage: http://www.iphoneislam.com
 Description: Turn your iPad 1 3G into a fully functional phone
 Author: iPhoneIslam <info@iphoneislam.com>
 Name: PhoneIt-iPad-5.1 (iPhoneIslam)
+
+Package: phoneitipda-5.1
+Version: 1.0-Crack
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Pre-Depends: firmware (>= 5.1), firmware (<= 5.1.1)
+Depends: mobilesubstrate
+Filename: ./debs/PhoneItiPad_5.1.x_1.0-Crack.deb
+Size: 2092520
+MD5sum: 17d3d0849a548bb3fd1df2457c668f49
+SHA1: 352422bbe1e9cf537945882d47441184afbc3ea8
+SHA256: 7a0296621f95738f8bec5199b1925e835f812e94c928da35565d3e835d3bfac8
+Section: Tweaks
+Priority: standard
+Homepage: https://dopaemon.github.io/Cydia
+Description: Giúp iPad 1 bản 3G có chức năng nghe gọi đầy đủ.
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: PhoneIt iPad iOS 5.1 (Crack)
 
 Package: run.er.wormctrl
 Version: 1.1.0
