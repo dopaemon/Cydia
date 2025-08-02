@@ -1310,6 +1310,25 @@ Depiction: http://www.aemula.net/aemula-cydia-intro.html
 Name: Aemula - 486 PC Emulator
 Sponsor: None
 
+Package: com.litchie.idosgames
+Version: 1.4.5
+Architecture: iphoneos-arm
+Maintainer: Weedy Weed Smoker <weeedyweedsmoker@yahoo.fr>
+Installed-Size: 12587
+Filename: ./debs/com.litchie.idosgames_1.4.5_iphoneos-arm.deb
+Size: 5938074
+MD5sum: 62279edbe1f247166fee78128c725de2
+SHA1: 5c9f3d68d115ad65ab3795124c4c54c8c3b8fdff
+SHA256: cea26e08888f605ed015de8c3747fc7d8c25d06e43d05d523ed3c37e34015d77
+Section: Emulators
+Homepage: https://litchie.com/dospad
+Description: A DOS emulator based on dosbox, also known as DOSPad
+Author: litchiedev
+Depiction: http://johan.margueritte.free.fr/repo/depictions/?p=com.litchie.idosgames
+Icon: http://johan.margueritte.free.fr/repo/depictions/com.litchie.idosgames/screenshots/icon.png
+Name: iDOS 2
+Sileodepiction: http://johan.margueritte.free.fr/repo/depictions/com.litchie.idosgames/sileo.json
+
 Package: com.martinpham.nero10
 Version: 0.0.1-444+debug
 Architecture: iphoneos-arm
@@ -5821,6 +5840,25 @@ Depiction: http://www.litchie.com/apps/dospad-short.html
 Name: DOSPAD - dosbox for iOS (Litchie)
 Sponsor: None
 
+Package: net.namedfork.basiliskii
+Version: 20200531
+Architecture: iphoneos-arm
+Maintainer: Weedy Weed Smoker <weeedyweedsmoker@yahoo.fr>
+Installed-Size: 5379
+Filename: ./debs/net.namedfork.basiliskii_2020.05.31_iphoneos-arm.deb
+Size: 2452478
+MD5sum: 694d70d9aa85035e78e08d6dff7bc8c3
+SHA1: e72ef0918002eaf6d6e9bb4dcb4d83dcdae705bd
+SHA256: 1914e0e6488255921bba0a025cdd1f6e57411d46d13ba2f388266b9ad021b40d
+Section: Emulators
+Homepage: https://basilisk.cebix.net
+Description: An Open Source 68k Macintosh emulator (Mac OS 7.0 - 8.1)
+Author: Jesús A. Álvarez (zydeco) <zydeco@namedfork.net>
+Depiction: http://johan.margueritte.free.fr/repo/depictions/?p=net.namedfork.basiliskii
+Icon: http://johan.margueritte.free.fr/repo/depictions/net.namedfork.basiliskii/screenshots/icon.png
+Name: BasiliskII
+Sileodepiction: http://johan.margueritte.free.fr/repo/depictions/net.namedfork.basiliskii/sileo.json
+
 Package: net.namedfork.minivmac
 Version: 2.1
 Architecture: iphoneos-arm
@@ -6442,6 +6480,25 @@ Author: F.lux Software LLC <support@justgetflux.com>
 Depiction: https://justgetflux.com/cydia/
 Icon: file:///Library/PreferenceLoader/Preferences/org.herf.flux.png
 Name: f.lux
+
+Package: org.ppsspp.ppsspp
+Version: 1.11.3.701
+Architecture: iphoneos-arm
+Maintainer: Weedy Weed Smoker <weeedyweedsmoker@yahoo.fr>
+Installed-Size: 66949
+Filename: ./debs/org.ppsspp.ppsspp_1.11.3_iphoneos-arm.deb
+Size: 31499220
+MD5sum: 65ab33e5c974d937fcbfaa4defc46918
+SHA1: f2786497714d690ea7d0060799e2068f8bb49111
+SHA256: 6379fb6a388639364f6dc6a6b2e015d78e5d9684b63a87c7a056720fa8793473
+Section: Emulators
+Homepage: http://ppsspp.org
+Description: Can run your PSP games on your PC in full HD resolution, and play them on iOS too
+Author: Henrik Rydgard <hrydgard+ppsspp@gmail.com>
+Depiction: http://johan.margueritte.free.fr/repo/depictions/?p=org.ppsspp.ppsspp
+Icon: http://johan.margueritte.free.fr/repo/depictions/org.ppsspp.ppsspp/screenshots/icon.png
+Name: PPSSPP
+Sileodepiction: http://johan.margueritte.free.fr/repo/depictions/org.ppsspp.ppsspp/sileo.json
 
 Package: org.thebigboss.dismissprogress
 Version: 1.1.1
