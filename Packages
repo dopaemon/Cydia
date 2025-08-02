@@ -5809,16 +5809,16 @@ Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Chaoji Li<lichaoji@gmail.com>
 Filename: ./debs/dospad.deb
-Size: 3115388
-MD5sum: 8f7a7e6845e29c6b54195d40284c9fe6
-SHA1: e650b7fb778d9a21bb81eb9a0fe28fd2e2065282
-SHA256: 3103cb94c83fb9be57c6cdbb682f755a13c6f3fc849e12dd9b8e88561a4bb496
+Size: 3116448
+MD5sum: b2cfab2ba1dea85490a259ab1731895a
+SHA1: bfd65638f12433a0bd79d5234d40fb2ff9a15741
+SHA256: fe5312343a8227df41866ad38352412fd85dafe9c63c26d1f409fd41477d43c6
 Section: System
 Homepage: http://www.litchie.com/blog/?page_id=123
 Description: DOSPAD is a first dos emulator for iPhone/iPad, based on dosbox 0.74.
 Author: Chaoji Li<lichaoji@gmail.com>
 Depiction: http://www.litchie.com/apps/dospad-short.html
-Name: DOSPAD - dosbox for iOS
+Name: DOSPAD - dosbox for iOS (Litchie)
 Sponsor: None
 
 Package: net.namedfork.minivmac
@@ -8463,16 +8463,16 @@ Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vnm>
 Filename: ./debs/dospad_2.0.1.deb
-Size: 4151628
-MD5sum: 11de2ec981119dd617750fa7cfde1ff3
-SHA1: 0befc3691485e8f38a64bf5d038585dced59d65c
-SHA256: 3d1d989d1ea8dbd1973212963d8e7db919306824d5c19eba198504d28a4d99a0
+Size: 4152468
+MD5sum: 20b901a2c6554516700b5930fb2ccabf
+SHA1: 56cc0ca25eeb2db555d0728353c9f8f9b492e507
+SHA256: 30b9e0ce5301e47a175af08a67fe3008e0caa9a3cd937535782874e0bcb7013a
 Section: System
 Homepage: http://cydia.vn/
 Description: DOSPAD is a first dos emulator for iPhone/iPad, based on dosbox 0.74.
 Author: Chaoji Li
 Depiction: http://cydia.vn/depic/t5808/
-Name: DOSPAD - dosbox for iOS
+Name: DOSPAD - dosbox for iOS (Cydia VN)
 
 Package: vorbis
 Version: 1.2.0-2
